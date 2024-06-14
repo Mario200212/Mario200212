@@ -3,7 +3,6 @@
 ### Sobre Mim
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI
 - 💬 Pergunte-me sobre C#, Python, Unity e .NET MAUI
-- 📫 Como me encontrar: [LinkedIn][linkedin]
 - 😄 Pronomes: Ele/Dele
 
 ### Linguagens e Ferramentas
