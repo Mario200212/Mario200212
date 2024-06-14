@@ -3,7 +3,9 @@
 ### Sobre Mim
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI
 - 💬 Pergunte-me sobre C#, Python, Unity e .NET MAUI
-- 📫 Como me encontrar: [Email](mariosergio190203@gmail.com), [LinkedIn](linkedin.com/in/mario-sergio-maduro-santana-031167270)
+[LinkedIn]:linkedin.com/in/mario-sergio-maduro-santana-031167270
+ [Email]:mariosergio190203@gmail.com 
+- 📫 Como me encontrar: [Email][Email], [LinkedIn][LinkedIn]
 - 😄 Pronomes: Ele/Dele
 
 ### Linguagens e Ferramentas
