@@ -1,9 +1,9 @@
 # Olá, Eu sou Mário Sérgio 👋
-
+[linkedin]: linkedin.com/in/mario-sergio-maduro-santana-031167270
 ### Sobre Mim
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI
 - 💬 Pergunte-me sobre C#, Python, Unity e .NET MAUI
-- 📫 Como me encontrar: [Email][Email], [LinkedIn][LinkedIn]
+- 📫 Como me encontrar: [LinkedIn][linkedin]
 - 😄 Pronomes: Ele/Dele
 
 ### Linguagens e Ferramentas
@@ -20,4 +20,4 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Mario200212&show_icons=true&theme=dracula&count_private=true"/>
 </div>
  
-[linkedin]: https://www.linkedin.com/in/rafaelmdcarneiro/
+
