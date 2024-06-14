@@ -3,8 +3,6 @@
 ### Sobre Mim
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI
 - 💬 Pergunte-me sobre C#, Python, Unity e .NET MAUI
-[LinkedIn]:linkedin.com/in/mario-sergio-maduro-santana-031167270
- [Email]:mariosergio190203@gmail.com 
 - 📫 Como me encontrar: [Email][Email], [LinkedIn][LinkedIn]
 - 😄 Pronomes: Ele/Dele
 
@@ -21,3 +19,5 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario200212&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Mario200212&show_icons=true&theme=dracula&count_private=true"/>
 </div>
+ 
+[linkedin]: https://www.linkedin.com/in/rafaelmdcarneiro/
