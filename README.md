@@ -2,7 +2,7 @@
 [linkedin]: linkedin.com/in/mario-sergio-maduro-santana-031167270
 ### Sobre Mim
 - 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI
-- 💬 Pergunte-me sobre C#, Python, Unity e .NET MAUI
+- 💬 Pergunte-me sobre C#, Python, Django, Unity e .NET MAUI
 - 😄 Pronomes: Ele/Dele
 
 ### Linguagens e Ferramentas
