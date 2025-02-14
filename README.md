@@ -1,7 +1,7 @@
 # Olá, Eu sou Mário Sérgio 👋
 [linkedin]: linkedin.com/in/mario-sergio-maduro-santana-031167270
 ### Sobre Mim
-- 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI
+- 🌱 Atualmente estou aprendendo Desenvolvimento de Aplicativos com .NET MAUI e Django
 - 💬 Pergunte-me sobre C#, Python, Django, Unity e .NET MAUI
 - 😄 Pronomes: Ele/Dele
 
