@@ -11,9 +11,3 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
-### Estatísticas do GitHub
-<div>
-<a href="https://github.com/thigs0">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario200212&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Mario200212&show_icons=true&theme=dracula&count_private=true"/>
-</div>
