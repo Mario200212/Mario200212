@@ -3,7 +3,6 @@
 ### Sobre Mim
 - 🌱 Data Scientist Jr
 - 💬 Pergunte-me sobre Python, Django, Scikit-Learn, Tensorflow, Unity e .NET MAUI
-- 😄 Pronomes: Ele/Dele
 
 ### Linguagens e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
